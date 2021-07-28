@@ -1,6 +1,6 @@
-## Thrust 1.14.0 (NVIDIA HPC SDK 21.9)
+# Changelog
 
-### Summary
+## Thrust 1.14.0 (NVIDIA HPC SDK 21.9)
 
 Thrust 1.14.0 is a major release accompanying the NVIDIA HPC SDK 21.9.
 
